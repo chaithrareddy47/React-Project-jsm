@@ -1,4 +1,5 @@
-# App write -
+# Rect projct from JSM mastery crash course 
+# topics learnt and practised
  - logged in to tarck the 
 import { useEffect, useState } from "react"
 
