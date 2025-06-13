@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card{
+  border: 2px solid black;
+  border-radius: 100px;
+  margin-bottom: 20px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+p{
+  margin: 10px;
+  
+}
+button{
+  border-radius: 10px;
+  border: none;
+  padding: 5px 4px;
+  background-color: darkkhaki;
+}
+
+.likes.active{
+  background-color: blue;
+}
+.dislike.active{
+  background-color: red;
+}
+.default{
+  background-color: darkkhaki;
+}
